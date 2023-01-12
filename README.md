@@ -6,4 +6,6 @@
 
 - git 초기화
 
-- git report 생성
+- git repo 생성
+
+
