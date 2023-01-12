@@ -1,6 +1,6 @@
 # 2023.01.12
 
-# 첫 GitHub
+# GitHub Intro
 
 ### README 생성
 
